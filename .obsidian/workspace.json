@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "2cd1593c6632245e",
+    "type": "split",
+    "children": [
+      {
+        "id": "60fb95dcbda31c16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87577c66cf229e05",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "498dd5cf258a6ba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f6c54abb9f867af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fca2524ae4505dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "782bd58107ecec93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed766feb9bc5f4fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.51103591918945
+  },
+  "right": {
+    "id": "9f42184229f53c47",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dd550ce8d42d7d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "014447431060bcb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d4e3f46ba2ce3db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20205c683dc80c03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34a01038fd97799c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f55d328455e4e28b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "06aee71537bcb8d0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "87577c66cf229e05",
+  "lastOpenFiles": [
+    "База знаний/Математика/Линейная алгебра/Системы линейный уравнений/СЛУ общая теория.md",
+    "Templates",
+    "Obsidian настройки/Настройки.md",
+    "База знаний/Математика/Линейная алгебра/Оглавление.md",
+    "База знаний/Математика/Линейная алгебра/Системы линейный уравнений/Перестановки и подстановки.md",
+    "База знаний/Математика/Линейная алгебра/Системы линейный уравнений/Матрицы общая теория.md",
+    "База знаний/Математика/Линейная алгебра/Матрицы",
+    "База знаний/Книжки/Александр Дюма/Граф Монте-Кристо 1 том.md",
+    "Исходники/Формула определителя 3-го порядка.png",
+    "Исходники/СЛУ в треугольном виде.png",
+    "База знаний/Математика/Линейная алгебра/Системы линейный уравнений",
+    "База знаний/Книжки/Рейтинг книг.md",
+    "База знаний/Математика/Линейная алгебра",
+    "Без названия.canvas",
+    "05-10-2024.md",
+    "База знаний/Data Sience/Компьютерное зрение/Шум и фильтры.md",
+    "База знаний/Data Sience/Компьютерное зрение/Оптический поток.md",
+    "База знаний/Data Sience/Компьютерное зрение/Масштабирования изображения.md",
+    "База знаний/Data Sience/Компьютерное зрение/Изображение.md",
+    "База знаний/Data Sience/Компьютерное зрение/Детекция углов.md",
+    "База знаний/Data Sience/Компьютерное зрение/Детекция границ.md",
+    "База знаний/Разное/Шахматы/Основы.md",
+    "База знаний/Разное/Шахматы/Вилки фигур в начале.md",
+    "База знаний/Разное/Фразы и анекдоты/Анекдоты.md",
+    "База знаний/Разное/Фразы и анекдоты/Фразы.md",
+    "База знаний/Разное/Тренировки/Утренняя зарядка.md",
+    "База знаний/Разное/Тренировки/Подтягивания.md",
+    "База знаний/Разное/Тренировки/Занятия.md",
+    "База знаний/Разное/Путешествия/Список вещей на зиму.md",
+    "База знаний/Разное/Продуктовая разработка/Jira.md",
+    "База знаний/Разное/Продуктовая разработка/AGILE.md",
+    "База знаний/Разное/Кубик рубик/Основы.md",
+    "Исходники/Pasted image 20230608233816.png",
+    "Исходники/Pasted image 20230608231249.png",
+    "Исходники/Pasted image 20230608203534.png",
+    "База знаний/Книжки/Александр Дюма",
+    "База знаний/Разное/Фразы и анекдоты",
+    "База знаний/Разное/Путешествия",
+    "База знаний/Книжки/Жюль Верн",
+    "База знаний/Книжки",
+    "База знаний/История",
+    "Исходники/YOLOReleaseTimeline.png",
+    "Исходники/Pasted image 20230221085804.png",
+    "Исходники/Pasted image 20230228091938.png",
+    "Исходники/Pasted image 20230228084758.png",
+    "Исходники/Pasted image 20230228083846.png",
+    "Obsidian настройки/Без названия.canvas"
+  ]
+}

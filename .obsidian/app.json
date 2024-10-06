@@ -1,0 +1,17 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Исходники",
+  "livePreview": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
