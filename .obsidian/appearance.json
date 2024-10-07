@@ -2,8 +2,12 @@
   "accentColor": "#19181b",
   "cssTheme": "Obsidian Nord",
   "translucency": false,
-  "baseFontSize": 15,
+  "baseFontSize": 17,
   "theme": "obsidian",
   "baseFontSizeAction": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
 }
