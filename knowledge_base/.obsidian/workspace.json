@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5c98bf180ffed6e8",
+        "id": "d35a73734f775fed",
         "type": "tabs",
         "children": [
           {
-            "id": "a5060156a0ce6fee",
+            "id": "d050eadfb9765aac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Project/Книжки/Жюль Верн/5 недель на воздушном шаре.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "5 недель на воздушном шаре"
             }
           }
         ]
@@ -168,9 +172,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Project/Книжки/Жюль Верн/5 недель на воздушном шаре.md"
+              },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 5 недель на воздушном шаре"
             }
           },
           {
@@ -206,8 +212,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "a5060156a0ce6fee",
+  "active": "d050eadfb9765aac",
   "lastOpenFiles": [
+    "Project/Разное/Фразы и анекдоты/Фразы.md",
     "Project/Книжки/Жюль Верн/20000 лье под водой.md",
     "Project/Книжки/Жюль Верн/5 недель на воздушном шаре.md",
     "Project/Книжки/Александр Дюма/Граф Монте-Кристо 1 том.md",
@@ -217,7 +224,6 @@
     "Project/Книжки/Список для чтения.md",
     "Project/Книжки/Рейтинг книг.md",
     "Project/Книжки/Прочтенные книги по авторам.md",
-    "Project/Разное/Фразы и анекдоты/Фразы.md",
     "Project/Разное/Фразы и анекдоты/Анекдоты.md",
     "Project/Алгоритмы/Префиксная сумма.md",
     "Project/Алгоритмы/Стресс тесты.md",
